@@ -10,7 +10,7 @@ tags=documentation,community,pmc,modules
 
 The documentation is split into different parts:
 
-   * [Getting Started](/documentation/getting-started.html), the right place to start!
+   * tes t [Getting Started](/documentation/getting-started.html), the right place to start!
    * [The Sling Engine](/documentation/the-sling-engine.html), all about the heart of Sling
    * [Development](/documentation/development.html), how do I get and develop with Sling
    * [Bundles](/documentation/bundles.html), which bundle delivers which features to Sling
